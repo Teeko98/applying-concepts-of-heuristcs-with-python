@@ -2,7 +2,7 @@
 
 This program showcases a practical application of heuristic concepts, self adjusting data structures, and sorting algorithms by solving a callous twist on the infamous [traveling salesman problem.](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
  
-## Scenario
+## The Scenario
 A fictous delivery service needs to determine an efficient route and delivery distribution for their daily local deliveries. The company has three trucks, two drivers, and 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
 
 The goal is to present a solution where all 40 packages are delivered on time while meeting each package’s requirements and keeping the combined total distance traveled under 140 miles.
